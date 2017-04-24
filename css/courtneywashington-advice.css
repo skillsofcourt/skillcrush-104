@@ -1,0 +1,26 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+
+/*Start Courtney's Styles */
+
+.courtneywashington-advice p {
+	 font-family: 'News Cycle', sans-serif;
+	font-size:25px;
+  color:#000000;
+  border: 1px solid #808000;
+  background-color:#5F9EA0;
+ }
+
+.courtneywashington-advice h1 {
+font-family:'Josefin Slab', serif;
+font-size: 35px;
+text-align: center;
+color:#000000;
+}
+
+.courtneywashington-advice h4 {
+font-family:'Josefin Slab', serif;
+font-size: 30px;
+text-align: center;
+color:#000000;
+}
